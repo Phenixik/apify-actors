@@ -14,12 +14,22 @@ Failed items are never charged.
 | [Website Screenshot](https://apify.com/digitalni.produkty.pro.zivot/website-screenshot) | Full-page, mobile or PDF screenshots, cookie banners hidden | $0.005 / screenshot |
 | [Domain WHOIS & DNS Lookup](https://apify.com/digitalni.produkty.pro.zivot/domain-whois-lookup) | Registrar, expiry, domain age, DNS, SPF/DMARC and SSL expiry for thousands of domains | $2 / 1,000 domains |
 
-## Documents, AI & media
+## Images & e-commerce
+
+| Tool | What it does | Price |
+|---|---|---|
+| [remove.bg API Alternative](https://apify.com/digitalni.produkty.pro.zivot/removebg-api-dropin) | Drop-in replacement for the remove.bg API (ends Dec 1, 2026): same endpoint, parameters and responses. [Migration guide](removebg-api-alternative/) | $0.005 / image |
+| [AI Background Remover](https://apify.com/digitalni.produkty.pro.zivot/background-remover) | Bulk background removal: transparent PNG/WebP, white or any color, masks, crop to subject | $0.005 / image |
+| [Product Photo Prep](https://apify.com/digitalni.produkty.pro.zivot/product-photo-prep) | Supplier photos to marketplace-ready images: background removal, white background, square, presets for Shopify, Amazon and Etsy | $0.01 / photo |
+| [AI Image Upscaler](https://apify.com/digitalni.produkty.pro.zivot/ai-image-upscaler) | 2x/4x Real-ESRGAN upscaling for photos and product images, no GPU | $0.01 / image |
+| [App Icon & Screenshot Generator](https://apify.com/digitalni.produkty.pro.zivot/app-icon-generator) | Every app icon size from one image (Xcode, Android adaptive, PWA) plus store screenshot sizes | $0.03 / icon set |
+
+## Documents & AI
 
 | Tool | What it does | Price |
 |---|---|---|
 | [PDF Text Extractor](https://apify.com/digitalni.produkty.pro.zivot/pdf-text-extractor) | Text, Markdown and RAG-ready chunks from PDF URLs, or every PDF linked from a page | $0.003 / PDF |
-| [AI Image Upscaler](https://apify.com/digitalni.produkty.pro.zivot/ai-image-upscaler) | 2x/4x Real-ESRGAN upscaling for photos and product images, no GPU | $0.01 / image |
+| [E-book Converter](https://apify.com/digitalni.produkty.pro.zivot/ebook-converter) | Word, Google Docs, Markdown or HTML manuscript to a print-ready PDF and an EPUB with cover and table of contents | $0.05 / document |
 
 ## Monitoring & data feeds
 
