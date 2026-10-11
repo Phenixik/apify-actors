@@ -36,7 +36,7 @@ Failed items are never charged.
 | Tool | What it does | Price |
 |---|---|---|
 | [RSS Feed Reader & Monitor](https://apify.com/digitalni.produkty.pro.zivot/rss-feed-reader) | Any RSS/Atom/podcast feed, auto-discovery from a website, only-new-items monitoring | $0.003 / run + $1 / 1,000 items |
-| [ATS Jobs](https://apify.com/digitalni.produkty.pro.zivot/ats-jobs) | All open jobs from Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee and Personio boards via official APIs | $1.50 / 1,000 jobs |
+| [Career Site Jobs API](https://apify.com/digitalni.produkty.pro.zivot/ats-jobs) | Search 400,000+ open jobs from 11,000+ company career sites (Greenhouse, Lever, Ashby, SmartRecruiters, Recruitee, Personio), or track specific companies. [Guide](career-site-jobs-api/) | $1.50 / 1,000 jobs |
 | [App Store Reviews](https://apify.com/digitalni.produkty.pro.zivot/app-store-reviews) | iOS app reviews from 50+ countries, filters and new-review monitoring | $0.15 / 1,000 reviews |
 
 ## Quick start (Python)
